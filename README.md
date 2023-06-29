@@ -280,6 +280,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
   all meaning. Therefore, I will be replacing it with the phrase, I have informed you thusly.
   
  *Sheldon Cooper*
+
+  -------
+
+> "A diferencia del amor, el respeto no se compra"
+
+ *Homer Simpson*
  
 -------
 
