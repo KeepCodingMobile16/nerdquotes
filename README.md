@@ -138,6 +138,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¿Por qué tienes cabello, Krillin? Pensé que eras calvo de nacimiento.
+
+*Goku*
+
+-------
+
 >Es genial trabajar con ordenadores. No discuten, lo recuerdan todo y no se beben tu cerveza.
 
 *Paul Leary*
