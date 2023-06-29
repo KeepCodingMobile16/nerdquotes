@@ -605,6 +605,12 @@ _La Principita Martina Fierro_
 
 *Yolanda Mesa López*
 
+--------
+
+> "Tendrá todo el dinero del mundo, pero hay algo que jamás podrá comprar: un dinosaurio"
+
+*Homer Simpson*
+
 -------
 
 > Un programador al nacer no llora dice 'Hola Mundo'
