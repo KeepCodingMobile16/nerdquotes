@@ -605,6 +605,12 @@ _La Principita Martina Fierro_
 
 *Yolanda Mesa López*
 
+--------
+
+> "A diferencia del amor; el respeto no se puede comprar"
+
+*Homer Simpson*
+
 -------
 
 > Un programador al nacer no llora dice 'Hola Mundo'
