@@ -607,7 +607,7 @@ _La Principita Martina Fierro_
 
 --------
 
-> "Tendrá todo el dinero del mundo, pero hay algo que jamás podrá comprar: un dinosaurio"
+> "A diferencia del amor; el respeto no se puede comprar"
 
 *Homer Simpson*
 
