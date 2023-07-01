@@ -1953,6 +1953,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> Ni discoteca, ni discoteco. Tú en casa a las diez.
+
+*Mi madre, inventando el lenguaje inclusivo*
+
+-------
+
 > El **Tetris** es un claro ejemplo de que los errores se acumulan, los triunfos desaparecen y tener un palo largo ayuda mucho.
 
 *Domingo Fiesta Segura*
